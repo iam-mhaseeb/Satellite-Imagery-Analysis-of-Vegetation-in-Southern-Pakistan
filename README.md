@@ -2,8 +2,6 @@
 
 This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
 
-<br>
-
 ## Getting Started
 
 To use this repo just download the repository, open in jupyter notebook. Start creating something awesome! Good Luck!
